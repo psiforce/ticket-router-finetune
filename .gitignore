@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+desktop.ini
+*.tmp
+~$*
+saves/
+qwen3_merged/
+5A-Fine-Tune-a-Support-Ticket-Router-main/
